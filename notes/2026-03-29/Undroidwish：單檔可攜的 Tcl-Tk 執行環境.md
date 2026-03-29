@@ -1,3 +1,12 @@
+---
+tags:
+  - programming/tcl-tk
+  - software/portable-apps
+  - cross-platform
+  - developer-tools
+  - source/hacker-news
+---
+
 # Undroidwish：單檔可攜的 Tcl/Tk 執行環境
 
 > 一個把 Tcl/Tk 執行環境、圖形能力與大量 extension 打包成單一可攜 binary 的 old-school 工具鏈專案。

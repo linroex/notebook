@@ -1,3 +1,12 @@
+---
+tags:
+  - gaming/civilization
+  - open-source
+  - software-preservation
+  - reverse-engineering
+  - source/hacker-news
+---
+
 # OpenCiv1：把文明帝國一代重新開源重寫
 
 > 一個試圖在不碰原始版權素材的前提下，逐步重建 Civilization 1 的開源重寫專案。

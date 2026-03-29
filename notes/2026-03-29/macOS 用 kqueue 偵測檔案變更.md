@@ -1,3 +1,12 @@
+---
+tags:
+  - systems/macos
+  - programming/systems
+  - file-watching
+  - developer-tools
+  - source/hacker-news
+---
+
 # macOS 用 kqueue 偵測檔案變更
 
 > 一篇從實作 file watcher 出發，往下理解 macOS 底層事件通知機制 kqueue 的教學文。

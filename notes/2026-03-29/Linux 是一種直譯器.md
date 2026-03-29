@@ -1,3 +1,12 @@
+---
+tags:
+  - systems/linux
+  - systems/boot
+  - programming/concepts
+  - reverse-engineering
+  - source/hacker-news
+---
+
 # Linux 是一種直譯器
 
 > 一篇用 boot、initrd、cpio 與 kexec 把 Linux 啟動流程重新解釋成「直譯器模型」的硬派文章。
